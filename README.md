@@ -10,4 +10,4 @@ Smurfing Hunter is a Graph Neural Network (GNN) tool designed to detect complex 
 ### 🛠️ Tech Stack
 * **AI:** PyTorch Geometric, NetworkX, Scikit-Learn
 * **Viz:** Streamlit, Plotly, Agraph
-* **Hardware:** Optimized for Apple Silicon (MPS)
+* **Hardware:** Optimized for Apple Silicon (MPS).
