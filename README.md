@@ -1,7 +1,5 @@
 # 🕵️‍♂️ Smurfing Hunter: AI-Powered AML Forensics
 
-**Winner of [Hackathon Name]**
-
 Smurfing Hunter is a Graph Neural Network (GNN) tool designed to detect complex money laundering patterns like **Peeling Chains** and **Cyclic Smurfing** in blockchain transactions.
 
 ### 🚀 Key Features
